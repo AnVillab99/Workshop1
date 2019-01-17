@@ -5,7 +5,7 @@ import java.util.Set;
 
 
 
-public class Main {
+public class Anagram {
 	
 
 
